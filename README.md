@@ -5,3 +5,4 @@ Data and legal pages for the DejaFootball Android app
 
 - `data/version.json`, `data/data.json` — the data the app downloads
 - `privacy/` — privacy policy
+- `terms/` — terms of use
